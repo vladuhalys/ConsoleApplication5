@@ -2,5 +2,9 @@
 
 int main()
 {
-	return 0;
+  int x = 56;
+  int y = 67;
+  cout << x+y<< end;
+
+  return 0;
 }
